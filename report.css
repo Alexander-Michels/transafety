@@ -1,0 +1,49 @@
+body {
+    background: #ffffff;
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 16px;
+    line-height: 100%;
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+
+.questions {
+        margin-top: 5px;
+        margin-bottom: 10px;
+        }
+
+.spacing
+
+{
+
+    margin-top: 5px;
+    margin-bottom: 10px;
+
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  height: 55px;
+  overflow: hidden;
+  background-color: #05233D;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  color: #05233D;
+  background-color: #48FFD5;
+}

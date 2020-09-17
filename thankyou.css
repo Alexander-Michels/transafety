@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  height: 100%;
+  color:#05233D;
+  background-color: #48FFD5;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-size: 400%;
+  margin: 50px auto 0 auto;
+  font-family: 'Abel', sans-serif;
+  color: #05233D;
+}
+
+h2 {
+  font-family: 'Martel Sans', sans-serif;
+  color: #05233D;
+}
+
+hr {
+  background-color: #48FFD5;
+  border-style: none;
+  Border-top-style: dotted;
+  border-color: #05233D;
+  border-width: 5px;
+  width: 5%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  height: 55px;
+  overflow: hidden;
+  background-color: #05233D;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  color: #05233D;
+  background-color: #48FFD5;
+}
