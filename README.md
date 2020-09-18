@@ -10,15 +10,14 @@ Use github or any desktop application built with HTML, JavaScript and CSS integr
 ## Usage
 import Transsafety
 
-transafety.html
-transafety.css
-report.html
-report.css
-Welcome.html
-Welcome.css
-Thankyou.html
-Thankyou.css
+landing-page.html,
+styles.css,
+report.html,
+report.css,
+thankyou.html,
+thankyou.css
 
+Starting point is "landing-page.html together with styles.css. The report.html and report.css are linked within the srarting page. thankyou.html and thankyou.css are linked to the report as well as tot the starting page. 
 ## Contributing
 We appreciate your feedback and suggestions.
 
