@@ -17,7 +17,8 @@ report.css,
 thankyou.html,
 thankyou.css
 
-Starting point is "landing-page.html together with styles.css. The report.html and report.css are linked within the srarting page. thankyou.html and thankyou.css are linked to the report as well as tot the starting page. 
+Starting point is "landing-page.html together with styles.css. The report.html and report.css are linked within the starting page. thankyou.html and thankyou.css are linked to the report as well as to the starting page. 
+
 ## Contributing
 We appreciate your feedback and suggestions.
 
